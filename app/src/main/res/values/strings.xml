@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Nirakshak2.0</string>
+    <string name="nirakshak">Nirakshak</string>
+    <string name="nirakshak2">Nirakshak</string>
+    <string name="login">Login</string>
+    <string name="email_address">Email address</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="signup">SignUp</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="create_password">Create Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="don_t_have_an_account_signup">Don\'t have an account SignUp</string>
+</resources>
